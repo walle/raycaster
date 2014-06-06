@@ -61,3 +61,9 @@ When you have Xcode installed, make sure you have the iOS Simulator installed, o
 Then run the gradle task to start the simulator.
 
     $ ./gradlew ios:assemble launchIPhoneSimulator
+
+## License
+
+The code is under MIT license, ported from JavaScript.
+
+The images used are from the article http://www.playfuljs.com/a-first-person-engine-in-265-lines/.
