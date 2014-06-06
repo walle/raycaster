@@ -5,6 +5,8 @@ This is a quick port of "A first-person engine in 265 lines" from JavaScript to 
 * http://www.playfuljs.com/a-first-person-engine-in-265-lines/
 * http://libgdx.badlogicgames.com/
 
+![Screenshot](https://pbs.twimg.com/media/Bpde8qACMAEoo_F.png:large)
+
 ## Porting details
 
 Besides the obvious changes in rendering and input code there is four new types introduced that in the original code are represented either as an `Array` or `Object`.
